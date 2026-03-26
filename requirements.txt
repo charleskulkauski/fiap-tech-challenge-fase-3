@@ -1,0 +1,54 @@
+# =========================
+# CORE DATA
+# =========================
+pandas
+pyarrow
+requests
+
+# =========================
+# HUGGING FACE / LLM
+# =========================
+transformers
+sentence-transformers
+datasets
+peft
+accelerate
+bitsandbytes
+trl>=0.18.2,<0.25.0
+
+# =========================
+# UNSLOTH (fine-tuning otimizado)
+# =========================
+unsloth[colab-new] @ git+https://github.com/unslothai/unsloth.git
+
+# =========================
+# RAG / LANGCHAIN / GRAPH
+# =========================
+langchain
+langchain-community
+langchain-huggingface
+langgraph
+langchain-text-splitters
+
+# =========================
+# VECTOR STORE (CHROMA)
+# =========================
+chromadb
+
+# =========================
+# EMBEDDINGS
+# =========================
+sentence-transformers
+InstructorEmbedding
+
+# =========================
+# UTILITÁRIOS
+# =========================
+newspaper3k
+html2text
+
+# =========================
+# OPCIONAL (se usar scraping/web)
+# =========================
+beautifulsoup4
+lxml

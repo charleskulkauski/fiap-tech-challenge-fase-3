@@ -1,0 +1,38 @@
+[
+  {
+    "protocolo": "Diretriz de Sepse",
+    "instituicao": "Unidade Hospitalar Geral",
+    "descricao": "Detecção antecipada via triagem, obtenção de culturas previamente à antibioticoterapia, administração de antimicrobianos de amplo espectro na primeira hora, expansão volêmica imediata, emprego de vasopressores em casos de choque refratário e controle rigoroso de lactato sérico.",
+    "indicacoes": "Quadros infecciosos suspeitos com pontuação SOFA ≥ 2 ou níveis de lactato acima de 2 mmol/L."
+  },
+  {
+    "protocolo": "Conduta em IAM",
+    "instituicao": "Centro de Cardiologia",
+    "descricao": "Puncionamento venoso, realização de ECG em menos de 10 minutos, antiagregação plaquetária dupla (Aspirina + P2Y12), terapia anticoagulante, análise imediata para estratégia de reperfusão (química ou mecânica) e manejo de dor/isquemia.",
+    "indicacoes": "Manifestação de dor precordial típica associada a supra de ST ou bloqueio de ramo esquerdo de início recente."
+  },
+  {
+    "protocolo": "Manejo de AVC Isquêmico",
+    "instituicao": "Departamento de Neurologia",
+    "descricao": "Exame neurológico célere (escala NIHSS), neuroimagem de urgência (TC), estabilização hemodinâmica e glicêmica, triagem para uso de fibrinolíticos (rtPA) dentro da janela de 4,5h e triagem para intervenção endovascular.",
+    "indicacoes": "Surgimento agudo de déficits focais sugestivos de insulto isquêmico cerebral."
+  },
+  {
+    "protocolo": "Algoritmo de Parada Cardiorrespiratória",
+    "instituicao": "Protocolo Institucional",
+    "descricao": "Identificação de colapso, ativação de equipe de resposta, início de compressões torácicas de alta performance, choque imediato para ritmos passíveis de desfibrilação, suporte farmacológico com adrenalina cíclica e investigação de etiologias tratáveis.",
+    "indicacoes": "Constatação de inconsciência com apneia e ausência de pulso central."
+  },
+  {
+    "protocolo": "Abordagem de Crise Hipertensiva",
+    "instituicao": "Emergência e Internação",
+    "descricao": "Classificação entre urgência e emergência hipertensiva. Nas emergências: queda controlada da pressão arterial (25% iniciais) via infusão intravenosa. Nas urgências: controle pressórico gradual com medicação via oral.",
+    "indicacoes": "Níveis tensionais severamente elevados com risco ou presença de disfunção orgânica."
+  },
+  {
+    "protocolo": "Gestão de Lesão Renal Aguda",
+    "instituicao": "Clínica Médica",
+    "descricao": "Diagnóstico etiológico (pré, intra ou pós-renal), restauração do volume circulante, suspensão de substâncias nefrotóxicas, redimensionamento posológico e monitoramento de parâmetros para terapia dialítica de suporte.",
+    "indicacoes": "Redução súbita do fluxo urinário ou incremento dos níveis de creatinina basal."
+  }
+]

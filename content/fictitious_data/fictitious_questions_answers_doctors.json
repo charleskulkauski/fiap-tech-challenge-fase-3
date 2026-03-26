@@ -1,0 +1,22 @@
+[
+  {
+    "pergunta_medico": "Qual a abordagem inicial para paciente apresentando creatinina de 2.8 e ureia de 89?",
+    "resposta": "A conduta sugerida envolve a diferenciação entre injúria renal aguda e agudização de doença crônica. É fundamental realizar balanço hídrico, revisar fármacos nefrotóxicos e excluir uropatia obstrutiva. Deve-se proceder com a reposição volêmica se houver depleção, readequar posologias conforme o clearance e solicitar interconsulta com nefrologia para estratificação e possível terapia dialítica. O manejo final cabe ao profissional assistente."
+  },
+  {
+    "pergunta_medico": "Como conduzir caso de troponina positiva com eletrocardiograma sem alterações?",
+    "resposta": "Níveis elevados de troponina sugerem Síndrome Coronariana Aguda, mas também diagnósticos diferenciais como TEP, sepse ou disfunção renal. Recomenda-se monitorização contínua, curva de troponina em 3 a 6 horas e manutenção de terapia antitrombótica seguindo as normas da unidade, além de parecer cardiológico. A estratégia terapêutica definitiva é de responsabilidade do médico à frente do caso."
+  },
+  {
+    "pergunta_medico": "Qual o esquema antibiótico empírico indicado para pneumonia adquirida na comunidade (PAC) grave?",
+    "resposta": "Seguindo os protocolos vigentes, para quadros graves de PAC, considera-se a associação de beta-lactâmico de largo espectro com macrolídeo ou o uso isolado de quinolona respiratória. A terapia deve ser individualizada conforme a epidemiologia local e comorbidades do paciente, sob supervisão do médico responsável."
+  },
+  {
+    "pergunta_medico": "Paciente assintomático com glicemia capilar de 350 mg/dL, qual o manejo?",
+    "resposta": "É necessário verificar o estado de hidratação, a perfusão renal e a presença de cetonúria. O uso de insulina rápida para correção pode ser indicado conforme o algoritmo institucional. Deve-se investigar o gatilho da descompensação, como processos infecciosos ou má adesão ao tratamento. A prescrição final e o seguimento clínico são atos médicos."
+  },
+  {
+    "pergunta_medico": "Como avaliar quadro de TSH indetectável associado a T4 livre alto?",
+    "resposta": "O padrão laboratorial é indicativo de hipertireoidismo. Deve-se realizar o exame físico em busca de sinais de tireotoxicose (tremores, perda ponderal e taquicardia). O início de betabloqueadores e drogas antitireoidianas deve ser discutido com a endocrinologia, visando o encaminhamento para tratamento especializado definitivo."
+  }
+]

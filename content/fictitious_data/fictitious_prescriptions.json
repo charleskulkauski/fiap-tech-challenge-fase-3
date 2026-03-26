@@ -1,0 +1,38 @@
+[
+  {
+    "tipo": "Relatório de Série Vermelha e Branca",
+    "modelo": "Análise Laboratorial: Eritrograma e Leucograma. Contagem de Hemácias (milhões/mm³), Dosagem de Hemoglobina (g/dL) e Volume Globular (%). Índices Hematimétricos: VCM, HCM e CHCM. Contagem Global de Leucócitos e Diferencial (Neutrófilos, Linfócitos, Monócitos). Séries Plaquetária. Impressão Diagnóstica: [texto]. Nota: Resultado pendente de correlação clínica. Assinatura eletrônica do responsável."
+  },
+  {
+    "tipo": "Resultado de Glicose Plasmática",
+    "modelo": "Exame: Glicemia de Jejum. Valor apurado: X mg/dL. Parâmetro de Normalidade: 70 a 99 mg/dL. Conclusão: [dentro dos limites / acima do esperado]. Observação: Resultados alterados devem ser confirmados com novos testes e avaliação especializada. Identificação da unidade e data."
+  },
+  {
+    "tipo": "Prescrição de Medicamentos Comuns",
+    "modelo": "Receituário Médico. Identificação do Paciente: [nome]. Fármaco: [princípio ativo], [miligramagem]. Instruções de uso: [quantidade, via de administração, intervalo e tempo total]. Nota: Manter a terapia conforme prescrito. Identificação profissional, registro no conselho (CRM) e carimbo oficial."
+  },
+  {
+    "tipo": "Prescrição de Substâncias Controladas",
+    "modelo": "Notificação de Receita (Controle Especial). Dados do Paciente: [nome e RG]. Item: [nome do medicamento e dosagem]. Orientação posológica detalhada. Quantidade total: [algarismos e por extenso]. Emissão em duas vias (Farmácia/Paciente). Validade: 30 dias após emissão. Assinatura e CRM do prescritor."
+  },
+  {
+    "tipo": "Guia de Solicitação de Exames",
+    "modelo": "Requisição de Exames Complementares. Beneficiário: [nome]. Solicitante: [nome do médico], CRM. Lista de Procedimentos: [itens]. Hipótese diagnóstica ou código CID. Data da solicitação e assinatura do profissional."
+  },
+  {
+    "tipo": "Registro de Acesso Venoso",
+    "modelo": "Relatório de Procedimento: Coleta de sangue venoso. Verificação de identidade. Uso de técnica asséptica e materiais descartáveis. Sequência de tubos respeitada. Amostras rotuladas no ato. Ausência de complicações durante a punção. Responsável técnico e horário do registro."
+  },
+  {
+    "tipo": "Anotação de Curativo e Cobertura",
+    "modelo": "Descrição de Procedimento: Curativo em [região anatômica]. Higienização com [solução antisséptica/soro]. Tipo de cobertura aplicada: [material]. Orientações de cuidados domiciliares fornecidas ao paciente. Registro de data, período e assinatura do executante."
+  },
+  {
+    "tipo": "Registro de Evolução Clínica",
+    "modelo": "Nota de Evolução: [data/hora]. Descrição do estado clínico e parâmetros vitais. Sinais e sintomas relatados. Parecer sobre exames recentes. Conduta terapêutica atualizada e metas do plano de cuidado. Assinatura e CRM."
+  },
+  {
+    "tipo": "Relatório de Conduta Interpessoal",
+    "modelo": "Parecer: Indivíduo com perfil comportamental prolixo e inadequado, apresentando baixa fundamentação em suas interações."
+  }
+]

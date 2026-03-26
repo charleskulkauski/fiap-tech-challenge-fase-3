@@ -1,0 +1,35 @@
+[
+  {
+    "pergunta": "Poderia explicar o diabetes tipo 2 e as formas de controle?",
+    "resposta": "O diabetes tipo 2 ocorre quando há resistência à ação da insulina ou produção insuficiente desse hormônio pelo pâncreas. A abordagem terapêutica foca em ajustes nos hábitos de vida, como dieta equilibrada e atividade física, além de fármacos orais ou subcutâneos. A supervisão médica é indispensável para calibrar as doses e evitar danos a longo prazo."
+  },
+  {
+    "pergunta": "A partir de qual nível a pressão arterial se torna preocupante?",
+    "screenshot_path": "niveis_pressao_arterial.png",
+    "resposta": "Registros constantes iguais ou superiores a 140x90 mmHg demandam investigação médica. Se a elevação pressórica vier acompanhada de cefaleia intensa, alterações visuais ou dor precordial, a busca por pronto-atendimento deve ser imediata. O plano de cuidados deve ser individualizado pelo médico assistente."
+  },
+  {
+    "pergunta": "Como interpretar a presença de anemia em um exame de sangue?",
+    "resposta": "A anemia caracteriza-se pela diminuição dos níveis de hemoglobina ou da massa de hemácias circulantes. As origens são variadas, incluindo deficiências nutricionais (ferro, B12) ou patologias crônicas. Cabe ao médico analisar o hemograma junto ao histórico do paciente para determinar a investigação e a terapia corretas."
+  },
+  {
+    "pergunta": "Quais são as opções terapêuticas para o hipertireoidismo?",
+    "resposta": "O manejo do excesso de hormônios tireoidianos pode envolver o uso de drogas antitireoidianas, terapia com iodo radioativo ou intervenção cirúrgica, dependendo da avaliação do endocrinologista. Monitorar os níveis de TSH e T4 livre é vital para o sucesso do tratamento, que nunca deve ser interrompido sem aval profissional."
+  },
+  {
+    "pergunta": "O que caracteriza a doença renal crônica?",
+    "resposta": "Trata-se do declínio gradual e permanente da capacidade filtrante dos rins. As metas do tratamento são frear a evolução da doença através do controle da glicemia e pressão, além de ajustes dietéticos. Em fases críticas, pode haver indicação de métodos dialíticos ou transplante, sob orientação do nefrologista."
+  },
+  {
+    "pergunta": "Como identificar os sinais de um ataque cardíaco?",
+    "resposta": "Os sintomas típicos incluem opressão ou peso no tórax que pode se espalhar para o braço esquerdo, mandíbula ou dorso, além de dispneia, sudorese fria e episódios de náusea. Diante desses sinais, a assistência de emergência deve ser acionada prontamente para diagnóstico e tratamento hospitalar."
+  },
+  {
+    "pergunta": "Existe problema em suspender o antibiótico se eu já estiver bem?",
+    "resposta": "De forma alguma. É imperativo completar o ciclo e as doses estabelecidas na receita médica. A interrupção precoce favorece o surgimento de bactérias resistentes e o risco de recidiva da infecção. Caso surjam reações indesejadas, relate ao médico antes de qualquer mudança."
+  },
+  {
+    "pergunta": "O que indica um resultado de PCR alto no sangue?",
+    "resposta": "A Proteína C Reativa (PCR) funciona como um indicador de processos inflamatórios no organismo. Níveis altos sugerem a presença de infecções ou inflamações, mas não apontam a causa exata. O médico deve cruzar esse dado com o exame físico e outros testes para concluir o diagnóstico."
+  }
+]
